@@ -1,3 +1,11 @@
+Welcome to the description of my small website. I make use of the under mentioned template for setting up the website.
+
+This website is a part of my small projects where I make use of a basic Bootstrap template to set it up. Thank you for visiting! 
+Feel free to reach to me on nimish.mailbox@gmail.com
+
+The reason why I didn't remove the template information is because me as a developer, believe that information should be free and open to everyone. And since these templates were allowed to be used freely (under the condition that we cite the developer), the fact should be respected and the source should be cited. 
+
+
 ################################################################################################
 
 IT Worker Template by Bootstrapious -  https://bootstrapious.com
